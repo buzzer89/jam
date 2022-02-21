@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/jam" mode="merge"/>
+    <filter root="/content/jam" mode="merge"/>
+    <filter root="/content/dam/jam" mode="merge"/>
+    <filter root="/content/experience-fragments/jam" mode="merge"/>
+</workspaceFilter>
